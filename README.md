@@ -23,7 +23,10 @@
 ## 安装和运行
 
 ```
+// GitHub
 git clone https://github.com/panxiaohe/vue3-cli.git
+// gitee
+git clone https://gitee.com/panxiaohehe/vue3-cli.git
 
 git branch 分支名称
 
